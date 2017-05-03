@@ -1,0 +1,6 @@
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Notice:  Undefined index: menu_event_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 167
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Notice:  Undefined index: menu_event_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 171
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Notice:  Undefined index: menu_add_event in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 172
+[25-Apr-2017 09:35:39 Etc/GMT] PHP Notice:  Undefined index: menu_building_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 285

@@ -1,0 +1,90 @@
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: menu_admin_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 180
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: menu_admin_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 182
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: menu_add_admin in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 183
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:37:51 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:38:11 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: menu_admin_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 200
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: menu_admin_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 202
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: menu_add_admin in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 203
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:41:41 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:41:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: menu_admin_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 200
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: menu_admin_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 202
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: menu_add_admin in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 203
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:41:57 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: menu_admin_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 200
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:44:18 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[18-Apr-2017 13:45:05 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_pre_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 107
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_per_address in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 108
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: e_nid in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 109
+[19-Apr-2017 08:41:45 Etc/GMT] PHP Notice:  Undefined index: member_type in /home/wishzkch/public_html/crosslimits.co.in/society/admin/adminlist.php on line 110
+[19-Apr-2017 08:41:51 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[19-Apr-2017 08:41:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wishzkch/public_html/crosslimits.co.in/society/admin/addadmin.php on line 200
+[19-Apr-2017 08:42:36 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[19-Apr-2017 08:42:36 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wishzkch/public_html/crosslimits.co.in/society/admin/addadmin.php on line 200
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Notice:  Undefined index: menu_event_information in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 167
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Notice:  Undefined index: menu_event_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 171
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Notice:  Undefined index: menu_add_event in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 172
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Notice:  Undefined index: menu_building_list in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 285
+[24-Apr-2017 14:30:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wishzkch/public_html/crosslimits.co.in/society/admin/addadmin.php on line 200
+[28-Apr-2017 08:40:59 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[28-Apr-2017 08:40:59 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[28-Apr-2017 08:40:59 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wishzkch/public_html/crosslimits.co.in/society/admin/addadmin.php on line 203
+[28-Apr-2017 08:41:11 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[28-Apr-2017 08:41:11 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[28-Apr-2017 08:41:11 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/wishzkch/public_html/crosslimits.co.in/society/admin/addadmin.php on line 203

@@ -1,0 +1,68 @@
+[19-Apr-2017 08:32:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[19-Apr-2017 08:37:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 109
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 110
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bt_type in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 124
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: month_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 126
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_10 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: xyear in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_12 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: total_amount in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_13 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: deposit_bank_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_14 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_details in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 109
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 110
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bt_type in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 124
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: month_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 126
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_10 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: xyear in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_12 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: total_amount in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_13 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: deposit_bank_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_14 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_details in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 109
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_id in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 110
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bt_type in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 124
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: month_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 126
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_10 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: xyear in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 127
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_12 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: total_amount in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 128
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_13 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: deposit_bank_name in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 129
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: text_14 in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:20 Etc/GMT] PHP Notice:  Undefined index: bill_details in /home/wishzkch/public_html/crosslimits.co.in/society/bill/bill_list.php on line 130
+[25-Apr-2017 13:28:28 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:28:28 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:29:44 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:29:44 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:30:34 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:30:34 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:31:22 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:31:22 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:31:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:31:54 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:32:55 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:32:55 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:33:39 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:33:39 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:33:50 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:33:50 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:33:54 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:33:54 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:34:07 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:34:07 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:36:06 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:36:06 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:36:15 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:36:15 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:36:17 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:36:17 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151
+[25-Apr-2017 13:36:37 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[25-Apr-2017 13:36:37 Etc/GMT] PHP Notice:  Undefined index: menu_add_block in /home/wishzkch/public_html/crosslimits.co.in/society/header.php on line 151

@@ -1,0 +1,8 @@
+[18-Apr-2017 12:58:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 12:59:08 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 12:59:08 Etc/GMT] PHP Notice:  Undefined index: add_new_block_title in /home/wishzkch/public_html/crosslimits.co.in/society/floor/addfloor.php on line 83
+[18-Apr-2017 12:59:08 Etc/GMT] PHP Notice:  Undefined index: add_new_select_block in /home/wishzkch/public_html/crosslimits.co.in/society/floor/addfloor.php on line 85
+[18-Apr-2017 13:05:03 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:05:56 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[18-Apr-2017 13:05:58 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
+[19-Apr-2017 08:36:40 Etc/GMT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wishzkch/public_html/crosslimits.co.in/society/config.php on line 11
